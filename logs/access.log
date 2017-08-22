@@ -1,0 +1,5 @@
+192.168.56.1 - - [16/Aug/2017:14:52:59 +0800] "GET /robots.txt HTTP/1.1" 200 24 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36"
+192.168.56.1 - - [16/Aug/2017:14:53:03 +0800] "GET / HTTP/1.1" 200 4082 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36"
+192.168.56.1 - - [16/Aug/2017:14:53:04 +0800] "GET /_debugbar/assets/javascript?v=1488877643 HTTP/1.1" 200 349778 "http://test-laratest.dev/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36"
+192.168.56.1 - - [16/Aug/2017:14:53:04 +0800] "GET /_debugbar/assets/stylesheets?v=1488877643 HTTP/1.1" 200 194294 "http://test-laratest.dev/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36"
+192.168.56.1 - - [16/Aug/2017:14:53:04 +0800] "GET /favicon.ico HTTP/1.1" 200 0 "http://test-laratest.dev/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36"
